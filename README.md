@@ -1,7 +1,7 @@
 # Siffy(now is only RUS)
-##About it:
+## About it:
   A free mp3 player that will evolve and guarantee convenience in the future, as well as purely for my experience.
-##How to use source code?
+## How to use source code?
 ```bash
 pip install yt-dlp pygame mutagen pillow
 py main.py
