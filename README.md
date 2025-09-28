@@ -12,6 +12,6 @@ pip install cx_Freeze
 py build.py build
 ```
 
-I will be very grateful if you help with the development and also support me in various ways:
-[boosty](https://boosty.to/vtx_votex)
-[telegram channel](https://t.me/ScVotex)
+## I will be very grateful if you help with the development and also support me in various ways:
+1. [boosty](https://boosty.to/vtx_votex)
+2. [telegram channel](https://t.me/ScVotex)
