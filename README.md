@@ -10,11 +10,11 @@ pip install customtkinter
 pip install requests
 pip install yt-dlp
 pip install spotdl
-spotdl --download-ffmpeg
+pip install plyer
 ```
 When you download libs, test script:
 ```bash
-py main.py
+py siffy.py
 ```
 If the script will be work, and you want to build, then proceed to it:
 ```bash
