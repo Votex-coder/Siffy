@@ -9,7 +9,8 @@ pip install mutagen
 pip install customtkinter
 pip install requests
 pip install yt-dlp
-pip install plyer
+pip install spotdl
+spotdl --download-ffmpeg
 ```
 When you download libs, test script:
 ```bash
