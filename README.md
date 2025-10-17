@@ -3,7 +3,16 @@
   A free mp3 player that will evolve and guarantee convenience in the future, as well as purely for my experience.
 ## How to use source code?
 ```bash
-pip install yt-dlp pygame mutagen pillow
+pip install pygame
+pip install pillow
+pip install mutagen
+pip install customtkinter
+pip install requests
+pip install yt-dlp
+pip install plyer
+```
+When you download libs, test script:
+```bash
 py main.py
 ```
 If the script will be work, and you want to build, then proceed to it:
